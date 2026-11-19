@@ -20,6 +20,16 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 
 Da esquerda para a direita: o técnico consulta e confirma as manutenções pendentes; acompanha as avarias e o respetivo responsável; e pesquisa instalações para consultar a sua ficha.
 
+## Ficha da instalação no telemóvel
+
+<p align="center">
+  <img src="imagens/omnilift-ficha-instalacao-telemovel.png" alt="Ficha de consulta de uma instalação fictícia no telemóvel, com botões E-mail e Navegação" width="340">
+</p>
+
+A ficha apresenta os dados da instalação apenas para consulta: número e contrato, morada e lugar, código postal e localidade, e-mail, acesso ao edifício, chave da casa das máquinas, processos DGEG e observações. Os botões **E-mail** e **Navegação** permitem preparar o contacto com o cliente e abrir o percurso.
+
+*Todos os dados desta imagem são fictícios, incluindo o e-mail de exemplo, o código de acesso, a indicação da chave e os processos DGEG. Não foi utilizada uma ficha real.*
+
 ## Consola de administração
 
 ![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
