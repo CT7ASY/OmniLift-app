@@ -10,16 +10,15 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 
 *Ecrã demonstrativo da aplicação. O nome apresentado é fictício; não são mostrados dados de clientes.*
 
-## Manutenções e avarias no telemóvel
+## Manutenções, avarias e instalações no telemóvel
 
-<p align="center">
-  <img src="imagens/omnilift-manutencoes-telemovel.png" alt="Manutenções por concluir no telemóvel, com instalações fictícias e botão Feito" width="340">
-  <img src="imagens/omnilift-avarias-telemovel.png" alt="Avarias por resolver no telemóvel, com dados fictícios e opções Passar a outro e Resolvida" width="340">
-</p>
+| Manutenções | Avarias | Instalações |
+| :---: | :---: | :---: |
+| <img src="imagens/omnilift-manutencoes-telemovel.png" alt="Manutenções por concluir com dados fictícios" width="240"> | <img src="imagens/omnilift-avarias-telemovel.png" alt="Avarias por resolver com dados fictícios" width="240"> | <img src="imagens/omnilift-instalacoes-telemovel.png" alt="Lista de instalações com moradas, números, contratos e lugares fictícios" width="240"> |
 
 *Ecrãs demonstrativos com dados inteiramente fictícios: moradas, instalações, contratos, lugares, técnicos, contactos, ocorrências e datas. Nenhum registo real foi utilizado.*
 
-À esquerda, o técnico consulta as manutenções pendentes e confirma a sua execução. À direita, acompanha as avarias, identifica o responsável e pode passar a ocorrência a outro técnico ou registar a resolução.
+Da esquerda para a direita: o técnico consulta e confirma as manutenções pendentes; acompanha as avarias e o respetivo responsável; e pesquisa instalações para consultar a sua ficha.
 
 ## Consola de administração
 
