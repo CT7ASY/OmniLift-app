@@ -32,6 +32,16 @@ No envio de e-mail, o técnico pode rever o destinatário, o assunto e a mensage
 
 *Todos os dados destas imagens são fictícios, incluindo o destinatário, a morada, o código de acesso, a indicação da chave e os processos DGEG. Não foi utilizada uma ficha real nem enviado qualquer e-mail para criar estas imagens.*
 
+## Registo de avaria no telemóvel
+
+<p align="center">
+  <img src="imagens/omnilift-registo-avaria-telemovel.png" alt="Formulário de registo de avaria no telemóvel com instalação, contacto, telefone, descrição e técnico fictícios" width="340">
+</p>
+
+O técnico procura a instalação, indica quem telefonou e o contacto, descreve a avaria e escolhe o técnico responsável antes de carregar em **Guardar avaria**.
+
+*Todos os dados são fictícios, incluindo a instalação, a morada, o contacto, o telefone, a descrição e o técnico. Nenhuma avaria foi guardada nem foi enviada uma notificação para criar esta imagem.*
+
 ## Consola de administração
 
 ![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
