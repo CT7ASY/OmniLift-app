@@ -30,6 +30,16 @@ A ficha apresenta os dados da instalação apenas para consulta: número e contr
 
 *Todos os dados desta imagem são fictícios, incluindo o e-mail de exemplo, o código de acesso, a indicação da chave e os processos DGEG. Não foi utilizada uma ficha real.*
 
+## Envio de e-mail no telemóvel
+
+<p align="center">
+  <img src="imagens/omnilift-email-telemovel.png" alt="Janela de envio de e-mail no telemóvel com destinatário, morada e mensagem fictícios" width="340">
+</p>
+
+O técnico pode rever o destinatário, o assunto e a mensagem antes de carregar em **Confirmar e enviar**. O envio é feito pelo servidor, com cópia para o escritório.
+
+*Imagem demonstrativa com destinatário, morada e mensagem fictícios. Não foi enviado qualquer e-mail para criar esta imagem.*
+
 ## Consola de administração
 
 ![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
