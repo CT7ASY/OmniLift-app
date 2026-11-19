@@ -10,12 +10,6 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 
 *Ecrã demonstrativo da aplicação. O nome apresentado é fictício; não são mostrados dados de clientes.*
 
-## Consola de administração
-
-![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
-
-*Imagem demonstrativa: todas as moradas, números, localidades, técnicos, rotas e contagens apresentados são fictícios. Não contém dados reais de clientes.*
-
 ## Manutenções e avarias no telemóvel
 
 <p align="center">
@@ -26,6 +20,12 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 *Ecrãs demonstrativos com dados inteiramente fictícios: moradas, instalações, contratos, lugares, técnicos, contactos, ocorrências e datas. Nenhum registo real foi utilizado.*
 
 À esquerda, o técnico consulta as manutenções pendentes e confirma a sua execução. À direita, acompanha as avarias, identifica o responsável e pode passar a ocorrência a outro técnico ou registar a resolução.
+
+## Consola de administração
+
+![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
+
+*Imagem demonstrativa: todas as moradas, números, localidades, técnicos, rotas e contagens apresentados são fictícios. Não contém dados reais de clientes.*
 
 ## Como funciona
 
