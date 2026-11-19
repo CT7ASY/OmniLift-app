@@ -20,27 +20,19 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 
 Da esquerda para a direita: o técnico consulta e confirma as manutenções pendentes; acompanha as avarias e o respetivo responsável; e pesquisa instalações para consultar a sua ficha.
 
-## Ficha da instalação e envio de e-mail no telemóvel
+## Ficha, e-mail e registo de avaria no telemóvel
 
-| Ficha da instalação | Envio de e-mail |
-| :---: | :---: |
-| <img src="imagens/omnilift-ficha-instalacao-telemovel.png" alt="Ficha de consulta de uma instalação fictícia no telemóvel" width="340"> | <img src="imagens/omnilift-email-telemovel.png" alt="Envio de e-mail no telemóvel com destinatário, morada e mensagem fictícios" width="340"> |
+| Ficha da instalação | Envio de e-mail | Registo de avaria |
+| :---: | :---: | :---: |
+| <img src="imagens/omnilift-ficha-instalacao-telemovel.png" alt="Ficha de consulta de uma instalação fictícia no telemóvel" width="240"> | <img src="imagens/omnilift-email-telemovel.png" alt="Envio de e-mail com destinatário, morada e mensagem fictícios" width="240"> | <img src="imagens/omnilift-registo-avaria-telemovel.png" alt="Registo de avaria com instalação, contacto, telefone, descrição e técnico fictícios" width="240"> |
 
 A ficha apresenta os dados da instalação apenas para consulta: número e contrato, morada e lugar, código postal e localidade, e-mail, acesso ao edifício, chave da casa das máquinas, processos DGEG e observações. Os botões **E-mail** e **Navegação** permitem preparar o contacto com o cliente e abrir o percurso.
 
 No envio de e-mail, o técnico pode rever o destinatário, o assunto e a mensagem antes de carregar em **Confirmar e enviar**. O envio é feito pelo servidor, com cópia para o escritório.
 
-*Todos os dados destas imagens são fictícios, incluindo o destinatário, a morada, o código de acesso, a indicação da chave e os processos DGEG. Não foi utilizada uma ficha real nem enviado qualquer e-mail para criar estas imagens.*
+No registo de avaria, o técnico procura a instalação, indica quem telefonou e o contacto, descreve a avaria e escolhe o técnico responsável antes de carregar em **Guardar avaria**.
 
-## Registo de avaria no telemóvel
-
-<p align="center">
-  <img src="imagens/omnilift-registo-avaria-telemovel.png" alt="Formulário de registo de avaria no telemóvel com instalação, contacto, telefone, descrição e técnico fictícios" width="340">
-</p>
-
-O técnico procura a instalação, indica quem telefonou e o contacto, descreve a avaria e escolhe o técnico responsável antes de carregar em **Guardar avaria**.
-
-*Todos os dados são fictícios, incluindo a instalação, a morada, o contacto, o telefone, a descrição e o técnico. Nenhuma avaria foi guardada nem foi enviada uma notificação para criar esta imagem.*
+*Todos os dados destas imagens são fictícios, incluindo moradas, contactos, códigos de acesso, chaves, processos DGEG e técnicos. Não foi utilizada uma ficha real, registada qualquer avaria ou enviado qualquer e-mail ou notificação para criar estas imagens.*
 
 ## Consola de administração
 
