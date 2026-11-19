@@ -10,6 +10,12 @@ A OmniLift liga o trabalho dos técnicos no terreno à consola de administraçã
 
 *Ecrã demonstrativo da aplicação. O nome apresentado é fictício; não são mostrados dados de clientes.*
 
+## Consola de administração
+
+![Consola de administração da OmniLift com instalações, técnicos e rotas fictícios](imagens/omnilift-consola-administracao.png)
+
+*Imagem demonstrativa: todas as moradas, números, localidades, técnicos, rotas e contagens apresentados são fictícios. Não contém dados reais de clientes.*
+
 ## Como funciona
 
 ### Acesso autorizado
@@ -54,6 +60,6 @@ A OmniLift é uma aplicação web com apresentação adaptada ao telemóvel e à
 
 ## Sobre este repositório
 
-Este repositório contém apenas a apresentação da OmniLift e uma imagem demonstrativa. Não disponibiliza o software, o código-fonte, a base de dados, credenciais ou dados operacionais de clientes.
+Este repositório contém apenas a apresentação da OmniLift e imagens demonstrativas. Não disponibiliza o software, o código-fonte, a base de dados, credenciais ou dados operacionais de clientes.
 
 © 2026 Eduardo Arraia - OmniLift - Todos os direitos reservados.
