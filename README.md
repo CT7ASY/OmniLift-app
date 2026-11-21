@@ -42,41 +42,69 @@ No registo de avaria, o técnico procura a instalação, indica quem telefonou e
 
 ## Como funciona
 
-### Acesso autorizado
+A OmniLift reúne a consulta de instalações, as manutenções, as avarias e as anotações. As funções disponíveis dependem do teu perfil e dos acessos concedidos.
 
-O supervisor autoriza o equipamento antes da primeira utilização. O técnico entra com o seu próprio acesso e encontra os menus correspondentes às permissões concedidas. A administração gere os utilizadores e os equipamentos autorizados.
+
+
+### Acesso
+
+O equipamento é autorizado antes da primeira utilização. Entra com o teu próprio acesso para consultar as funções disponíveis. Ao terminar sessão, é pedida confirmação. Se mudares de navegador ou apagares os dados da aplicação, pode ser necessária uma nova autorização.
+
+
 
 ### Manutenções
 
-Cada técnico consulta as manutenções por concluir das instalações que lhe estão atribuídas, com ou sem rota. O botão **Feito** pede confirmação antes de guardar o registo, com data e hora automáticas. O contador indica as manutenções pendentes.
+O técnico vê as manutenções por concluir das instalações que lhe estão atribuídas, com ou sem rota. O título indica quantas instalações faltam concluir: uma instalação pode incluir mais de um elevador. Toca em «Feito» e confirma a manutenção, com a morada, o lugar e a data e hora preenchidas automaticamente. No início de cada mês começa um novo ciclo e o histórico fica guardado.
 
-No início de cada mês começa um novo ciclo. Os registos e os fechos anteriores ficam disponíveis para consulta na administração.
 
-### Avarias
 
-É possível registar uma avaria, indicar quem telefonou, descrever o problema e escolher o técnico responsável. Os técnicos com permissão para esta área podem consultar as avarias; o aviso é enviado ao técnico escolhido nos equipamentos com notificações ativadas.
+### Anotações
 
-Uma avaria pode ser passada a outro técnico. Para a dar como resolvida, é necessário confirmar e descrever o trabalho realizado, com a opção de enviar um e-mail ao cliente. As avarias por resolver transitam para o mês seguinte.
+O botão «Anotações» está disponível na Manutenção, na ficha da instalação e nas avarias. Podes criar uma nota para qualquer instalação. Se a manutenção do mês estiver por fazer, a nota fica nesse mês; se já estiver feita, fica para o seguinte. Em «Ver», o técnico consulta as notas das suas instalações e o Atendimento pode consultar todas, sem selecionar um mês. Cada nota permite editar ou apagar, com confirmação antes de apagar. Ao concluir a manutenção, são eliminadas as notas dessa instalação relativas ao mês concluído; as dos meses seguintes são mantidas.
 
-### Instalações
 
-A pesquisa permite encontrar instalações pelo número, morada, código postal, localidade ou lugar, incluindo pesquisas sem acentos. Em instalações agrupadas, como **2033/4**, é possível pesquisar por **2033** ou **2034**.
 
-Ao tocar na instalação, o técnico abre uma ficha de consulta com os dados necessários ao serviço. Os botões **E-mail** e **Navegação** permitem contactar o cliente e abrir o percurso na aplicação de mapas.
+### Instalações e navegação
 
-### Proximidade por GPS
+Em «Instalações», podes consultar todas as instalações ativas. A pesquisa encontra número de instalação, morada, código postal, localidade e lugar, mesmo sem acentos. Um número como 2033/4 pode ser encontrado por 2033 ou 2034. Toca na área da instalação para abrir a ficha de consulta.
 
-Em Manutenção e Instalações, a aplicação pode apresentar primeiro as seis instalações mais próximas com coordenadas disponíveis, seguidas das restantes. A localização é atualizada enquanto estas páginas estão abertas e a aplicação está visível, mediante autorização do utilizador.
+O botão «Navegação» usa a morada, o código postal e a localidade para abrir o percurso no mapa. As coordenadas guardadas são usadas para ordenar as instalações por proximidade, não como destino deste botão.
 
-A posição do técnico é utilizada apenas no equipamento: não é enviada ao servidor nem guardada. O acompanhamento para ao sair destas páginas, minimizar ou fechar a aplicação.
 
-### E-mail e notificações
 
-O técnico revê e confirma a mensagem antes do envio pelo servidor. O cliente recebe o e-mail e o escritório recebe uma cópia. As notificações de novas avarias dependem da autorização no equipamento e do suporte do navegador e do sistema operativo.
+### Localização
 
-### Consola de administração
+Nos equipamentos dos técnicos, Manutenção e Instalações apresentam primeiro as seis instalações mais próximas com coordenadas disponíveis e depois as restantes. A localização é atualizada enquanto a página está aberta e a aplicação está visível. A tua posição é usada apenas no equipamento: não é enviada ao servidor nem guardada. O acompanhamento para ao sair destas páginas ou quando a aplicação deixa de estar visível. O perfil Atendimento não pede localização.
 
-A consola permite gerir instalações, técnicos, permissões, rotas e respetivas atribuições; consultar manutenções e avarias por mês; desativar e reativar clientes; e exportar informações das instalações para PDF.
+
+
+### Avarias e notificações
+
+Podes registar uma avaria em qualquer instalação e escolher o técnico responsável. Os utilizadores com acesso a Avarias podem consultar os registos; o aviso é dirigido ao técnico escolhido. As avarias por resolver atribuídas ao técnico aparecem numa janela de aviso ao entrar na aplicação. A visualização fica registada com data e hora.
+
+«Passar a outro» permite escolher outro técnico e regista a passagem. Em «Resolvida», escolhes se queres enviar e-mail e descreves o trabalho realizado. A resolução requer confirmação. As avarias por resolver transitam para o mês seguinte.
+
+Ativa as notificações em cada equipamento para receber avisos mesmo com a aplicação fechada. A autorização depende do telemóvel. No iPhone e iPad, abre a aplicação pelo ícone adicionado ao ecrã principal. Quando a aplicação está em segundo plano, o sistema pode apresentar uma notificação; a janela interna aparece quando a aplicação está visível.
+
+
+
+### E-mail da instalação
+
+O botão «E-mail» permite rever a mensagem antes de confirmar o envio. O remetente é geral@omnilift.pt; os destinatários são os contactos da instalação, com cópia para o escritório. O assunto contém a morada e a localidade. Na resolução de uma avaria por e-mail, o texto da mensagem fica registado como trabalho realizado.
+
+
+
+### Mensagem ao escritório
+
+No ecrã inicial do telemóvel, «✉ Escritório» permite escolher uma instalação, enviar uma mensagem para geral@omnilift.pt e anexar várias fotografias. O assunto é «Mensagem Interna — Morada — Lugar». As imagens são comprimidas automaticamente para JPEG, até 800 píxeis no lado maior e com qualidade de 80%, sem alterar os originais. O limite é de 10 MB no total, depois da compressão. A janela mostra a quantidade de imagens e o tamanho total.
+
+Ao carregar em «Enviar», a janela fecha e podes continuar a usar a aplicação enquanto o envio decorre. Se ocorrer um erro, volta a abrir com o texto e as imagens preservados. Mantém a aplicação aberta até o envio terminar. A mensagem é entregue por e-mail ao escritório; o texto e as fotografias não ficam guardados para consulta na aplicação.
+
+
+
+### Ligação ao servidor
+
+É necessária ligação à Internet para consultar dados atualizados, guardar alterações e enviar mensagens. Os códigos de acesso ao edifício e as chaves não ficam disponíveis para consulta sem ligação.
 
 ## Utilização
 
